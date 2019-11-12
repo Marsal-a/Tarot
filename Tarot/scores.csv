@@ -1,0 +1,76 @@
+Squad,Donne,Player,Preneur,contrat,succeed,ecart,Petit_end,Poignee,score_mene,Previous_score,score_global
+1,1,Elise,Elise,G,TRUE,10,TRUE,0,140,0,140
+1,1,Etienne,Elise,G,TRUE,10,TRUE,0,-70,0,-70
+1,1,Adam,Elise,G,TRUE,10,TRUE,0,-70,0,-70
+1,2,Elise,Adam,Garde,TRUE,0,FALSE,,-50,140,90
+1,2,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-70,-120
+1,2,Adam,Adam,Garde,TRUE,0,FALSE,,100,-70,30
+1,3,Elise,Adam,Garde Sans,TRUE,0,FALSE,,-100,90,-10
+1,3,Etienne,Adam,Garde Sans,TRUE,0,FALSE,,-100,-120,-220
+1,3,Adam,Adam,Garde Sans,TRUE,0,FALSE,,200,30,230
+1,4,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-10,-60
+1,4,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-220,-270
+1,4,Adam,Adam,Garde,TRUE,0,FALSE,,100,230,330
+1,5,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-60,-110
+1,5,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-270,-320
+1,5,Adam,Adam,Garde,TRUE,0,FALSE,,100,330,430
+1,6,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-110,-160
+1,6,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-320,-370
+1,6,Adam,Adam,Garde,TRUE,0,FALSE,,100,430,530
+1,7,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-160,-210
+1,7,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-370,-420
+1,7,Adam,Adam,Garde,TRUE,0,FALSE,,100,530,630
+1,8,Elise,"",Garde,TRUE,0,FALSE,,-50,-210,-260
+1,8,Etienne,"",Garde,TRUE,0,FALSE,,-50,-420,-470
+1,8,Adam,"",Garde,TRUE,0,FALSE,,-50,630,580
+1,9,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-260,-310
+1,9,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-470,-520
+1,9,Adam,Adam,Garde,TRUE,0,FALSE,,100,580,680
+1,10,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-310,-360
+1,10,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-520,-570
+1,10,Adam,Adam,Garde,TRUE,0,FALSE,,100,680,780
+1,11,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-360,-410
+1,11,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-570,-620
+1,11,Adam,Adam,Garde,TRUE,0,FALSE,,100,780,880
+1,12,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-410,-460
+1,12,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-620,-670
+1,12,Adam,Adam,Garde,TRUE,0,FALSE,,100,880,980
+1,13,Elise,Adam,Garde,TRUE,0,FALSE,,-50,-460,-510
+1,13,Etienne,Adam,Garde,TRUE,0,FALSE,,-50,-670,-720
+1,13,Adam,Adam,Garde,TRUE,0,FALSE,,100,980,1080
+1,14,Elise,Elise,Garde Contre,TRUE,15,FALSE,,480,-510,-30
+1,14,Etienne,Elise,Garde Contre,TRUE,15,FALSE,,-240,-720,-960
+1,14,Adam,Elise,Garde Contre,TRUE,15,FALSE,,-240,1080,840
+1,15,Elise,Elise,Garde Contre,TRUE,15,FALSE,,480,-30,450
+1,15,Etienne,Elise,Garde Contre,TRUE,15,FALSE,,-240,-960,-1200
+1,15,Adam,Elise,Garde Contre,TRUE,15,FALSE,,-240,840,600
+1,16,Elise,Elise,Garde Contre,TRUE,15,FALSE,,480,450,930
+1,16,Etienne,Elise,Garde Contre,TRUE,15,FALSE,,-240,-1200,-1440
+1,16,Adam,Elise,Garde Contre,TRUE,15,FALSE,,-240,600,360
+1,17,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,930,890
+1,17,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1440,-1360
+1,17,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,360,320
+1,18,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,890,850
+1,18,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1360,-1280
+1,18,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,320,280
+1,19,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,850,810
+1,19,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1280,-1200
+1,19,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,280,240
+1,20,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,810,770
+1,20,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1200,-1120
+1,20,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,240,200
+1,21,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,770,730
+1,21,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1120,-1040
+1,21,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,200,160
+1,22,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,730,690
+1,22,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-1040,-960
+1,22,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,160,120
+1,23,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,690,650
+1,23,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-960,-880
+1,23,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,120,80
+1,24,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,650,610
+1,24,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-880,-800
+1,24,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,80,40
+1,25,Elise,Etienne,Petite (bite),TRUE,15,FALSE,,-40,610,570
+1,25,Etienne,Etienne,Petite (bite),TRUE,15,FALSE,,80,-800,-720
+1,25,Adam,Etienne,Petite (bite),TRUE,15,FALSE,,-40,40,0
